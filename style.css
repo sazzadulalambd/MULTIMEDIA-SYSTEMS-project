@@ -1,0 +1,119 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+#nav-bar
+{
+  position: static;
+  top: 0;
+    text-align: center;
+  z-index: 10;
+}
+
+.navbar
+{
+  background-image:linear-gradient(to right, #235AF0, #B7E9F7);
+  padding: 0 !important;
+
+}
+
+.navbar-brand img
+{
+  height:80px;
+  padding-left:20px;
+}
+
+.navbar-nav li a
+{
+  color: #000 !important;
+  float: left;
+  color: #f2f2f2;
+ font-weight: bold ;
+  display: block;
+  text-decoration: none;
+  font-size: 24px;
+
+}
+
+
+
+
+
+
+body
+{font-family: sans-serif;}
+
+
+/* --------------------banar/-------------------------> */
+
+#banner
+{
+  background-image:linear-gradient(to left, #235AF0, #B7E9F7);
+  color: #fff;
+  padding-top: 20%;
+}
+
+
+
+
+
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  font-weight: bold ;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size:20px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+
+.button2
+ {background-color: #008CBA;} /* Blue */
+
+
+
+
+
+
+.footer00 {
+
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#747574 ;
+   color: white;
+   text-align: center;
+}
+
+
+
+
+
+
+
+.footer {
+
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
